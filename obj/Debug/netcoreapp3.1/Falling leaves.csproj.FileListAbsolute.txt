@@ -1,0 +1,74 @@
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.exe
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.deps.json
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.runtimeconfig.json
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.runtimeconfig.dev.json
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.dll
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.pdb
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.Views.dll
+C:\DevBuild4\Falling leaves\bin\Debug\netcoreapp3.1\Falling leaves.Views.pdb
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.csprojAssemblyReference.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.AssemblyInfoInputs.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.AssemblyInfo.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.csproj.CoreCompileInputs.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.MvcApplicationPartsAssemblyInfo.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorAssemblyInfo.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorAssemblyInfo.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.TagHelpers.input.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.TagHelpers.output.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorCoreGenerate.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorTargetAssemblyInfo.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorTargetAssemblyInfo.cs
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.Views.pdb
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\staticwebassets\Falling leaves.StaticWebAssets.Manifest.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\staticwebassets\Falling leaves.StaticWebAssets.xml
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.dll
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.pdb
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.genruntimeconfig.cache
+C:\DevBuild4\Falling leaves\obj\Debug\netcoreapp3.1\Falling leaves.csproj.CopyComplete
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\appsettings.json
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.exe
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.deps.json
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.runtimeconfig.json
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.runtimeconfig.dev.json
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.dll
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.pdb
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.Views.dll
+C:\DevBuild4\FallingLeaves\bin\Debug\netcoreapp3.1\Falling leaves.Views.pdb
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.csprojAssemblyReference.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.AssemblyInfoInputs.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.AssemblyInfo.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.csproj.CoreCompileInputs.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.MvcApplicationPartsAssemblyInfo.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorAssemblyInfo.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorAssemblyInfo.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.TagHelpers.input.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.TagHelpers.output.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorCoreGenerate.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorTargetAssemblyInfo.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.RazorTargetAssemblyInfo.cs
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.Views.pdb
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\staticwebassets\Falling leaves.StaticWebAssets.Manifest.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\staticwebassets\Falling leaves.StaticWebAssets.xml
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.dll
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.pdb
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.genruntimeconfig.cache
+C:\DevBuild4\FallingLeaves\obj\Debug\netcoreapp3.1\Falling leaves.csproj.CopyComplete
